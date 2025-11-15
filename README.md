@@ -18,7 +18,7 @@ Este projeto é um conversor de moedas em linha de comando (Console Application)
 
 ### Passos para Rodar
 1.  **Clone o repositório:**
-    `git clone [LINK DO SEU REPOSITÓRIO]`
+    `https://github.com/Amandalto/conversor-moedas-java`
 2.  **Configure a API Key:**
     Abra o arquivo `ConsultaApiCambio.java` e substitua `"SUA_CHAVE_AQUI"` pela sua chave real da ExchangeRate-API.
 3.  **Compile e Execute via Maven (Opcional):**
